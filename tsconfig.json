@@ -7,5 +7,7 @@
     "esModuleInterop": true,
     "isolatedModules": true,
     "outDir": "lib",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
   },
 }
